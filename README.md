@@ -1,4 +1,4 @@
-# Associated Rule Learning
+# Associated Rule Learning in Python
 
-- Market Baset Apriori  
+- Market Basket Apriori  
 - Movie Recommender System  
