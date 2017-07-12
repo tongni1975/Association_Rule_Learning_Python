@@ -1,1 +1,4 @@
-# Associated_Rule_Learning
+# Associated Rule Learning
+
+- Market Baset Apriori  
+- Movie Recommender System  
